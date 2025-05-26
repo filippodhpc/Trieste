@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edizione digitale fittizia, con esempio di codifica apparato</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Filippo Pelacci</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Lettera di Vespasiano ad Alfonso Strozzi (Antella, 8 ottobre 1493) Firenze, Arch. di Stato, Carte Strozziane, serie III, vol. 145, ff. 86-87v</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Vespasiano Alphonso Stroza salute. Bemché per el tempo passato non thabbia scripto: nientedimeno non ho dimenticato</p>
+      </body>
+  </text>
+</TEI>
