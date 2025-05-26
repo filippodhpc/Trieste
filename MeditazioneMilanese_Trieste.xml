@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edizione digitale fittizia della Meditazione Milanese</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Filippo Pelacci</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+                  <msIdentifier>
+                     <settlement>Milano</settlement>
+                     <repository sameAs="https://www.geonames.org/3166568/castello-sforzesco.html">Biblioteca Trivulziana</repository>
+                     <idno>Fondo Gadda-Roscioni, 6.16</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <p>Il volume IV contiene la riscrittura dei primi tre capitoli e di parte del quarto della Meditazione milanese di Carlo Emilio Gadda, interamente realizzati tra il 14 luglio e il 18 agosto 1928</p>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc material="paper">
+                           <extent> 102 cc. 
+                              <dimensions type="leaf" unit="cm">
+                                 <height>28</height>
+                                 <width>22</width>
+                              </dimensions>
+                           </extent>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Poi che le nuvole sorgono, come sogni, dai monti e dalle foreste: diademate di folgori le montagne attendono i battaglioni d’assalto: il soldato si ferma, guarda lontano e pensa: «Quali saranno i miei atti?»  Ma già sono.</p>
+      </body>
+  </text>
+</TEI>
