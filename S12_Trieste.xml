@@ -12,6 +12,7 @@
             <publisher>Filippo Pelacci</publisher>
          </publicationStmt>
          <sourceDesc>
+	 <listWit>
             <witness xml:id="Pg">
                      <bibl type="rivista">
                         <title>Nuovo giornale dei Letterati, tomo IV, Fascicolo di ottobre</title>
@@ -48,6 +49,7 @@
                         <pubPlace>Milano</pubPlace>
                      </bibl>
                   </witness>
+	 </listWit>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
