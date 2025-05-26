@@ -12,7 +12,42 @@
             <publisher>Filippo Pelacci</publisher>
          </publicationStmt>
          <sourceDesc>
-            <p>Ugo Foscolo, Poesie. Milano: Agnello Nobile, 1803.</p>
+            <witness xml:id="Pg">
+                     <bibl type="rivista">
+                        <title>Nuovo giornale dei Letterati, tomo IV, Fascicolo di ottobre</title>
+                        <author>Ugo Foscolo</author>
+                        <date when="1802">1802</date>
+                        <pubPlace>Pisa</pubPlace>
+                        <editor>Tipografia della società letteraria</editor>
+                     </bibl>
+                  </witness>
+                  <witness xml:id="Ps">
+                     <bibl type="volume">
+                        <title>Poesie di Ugo Foscolo</title>
+                        <author>Ugo Foscolo</author>
+                        <editor>Tipografia della società letteraria</editor>
+                        <date when="1803">1803</date>
+                        <pubPlace>Pisa</pubPlace>
+                     </bibl>
+                  </witness>
+                  <witness xml:id="Md">
+                     <bibl type="volume">
+                        <title>Poesie di Ugo Foscolo <emph>Sollicitae oblivia vitae</emph> Hor.</title>
+                        <author>Ugo Foscolo</author>
+                        <editor>De Stefanis</editor>
+                        <date when="1803">1803</date>
+                        <pubPlace>Milano</pubPlace>
+                     </bibl>
+                  </witness>
+                  <witness xml:id="Mn">
+                     <bibl type="volume">
+                        <title>Poesie di Ugo Foscolo Seconda edizione accresciuta <emph>Sollicitae oblivia vitae</emph> Hor.</title>
+                        <author>Ugo Foscolo</author>
+                        <editor>Agnello Nobile</editor>
+                        <date when="1803">1803</date>
+                        <pubPlace>Milano</pubPlace>
+                     </bibl>
+                  </witness>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
